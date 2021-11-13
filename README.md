@@ -29,4 +29,4 @@ Known issues:
 Future implementations:
 - Support for boundary conditions
 - More integration schemes
-- Poentially support for multiple spacial dimensions
+- Potentially support for multiple spacial dimensions
